@@ -1,0 +1,73 @@
+cấu hình dự án :
+
+Database :
+Admins
+Cart
+Categories
+Contact
+Customer
+Customer-Orders
+Payments
+Pending-Orders
+Products
+Product-Categories
+Slider
+
+User: 
+Trang chủ
+Cửa hàng
+Tài khoản
+Tìm kiếm sản phẩm
+Giỏ hàng
+Liên hệ
+Đăng ký
+Đăng nhập
+Chi tiết sản phẩm
+Phương thức thanh toán
+
+Admin:
+Thống kê sản phẩm
+Thống kê khách hàng
+Thống kê danh mục
+Đơn hàng mới
+Quản lý sản phẩm
+Quản lý danh mục
+Quản lý thể loại
+Quản lý slider
+Quản lý khách hàng
+Quản lý đơn hàng
+Quản lý thanh toán
+Quản lý quản trị viên
+Phân công nhiệm vụ :
+Database : cả nhóm thiết kế
+Kim đạt :
++user:
+Trang chủ
+Tìm kiếm sản phẩm
+Cửa hàng
+Đăng ký
++admin:
+Thống kê sản phẩm
+Quản lý sản phẩm
+Quản lý thể loại
+Quản lý quản trị viên
+Long:
++user:
+Phương thức thanh toán
+Chi tiết sản phẩm
+Giỏ hàng
++admin:
+Thống kê khách hàng
+Quản lý khách hàng
+Quản lý đơn hàng
+Quản lý thanh toán
+Dinh:
++user:
+Tài khoản 
+Liên hệ
+Đăng nhập
++admin:
+Thống kê danh mục
+Đơn hàng mới
+Quản lý danh mục
+Quản lý slide
